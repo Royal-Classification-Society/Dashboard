@@ -1,2 +1,14 @@
-[www.rcsclass.org
-www.rcsclass.digital]
+[
+  {
+    "category": "GENERAL",
+    "name": "ClickUp",
+    "url": "https://app.clickup.com",
+    "desc": "Project and task management workspace"
+  },
+  {
+    "category": "GENERAL",
+    "name": "RCS Digital Portal",
+    "url": "https://rcsclass.digital/",
+    "desc": "Official digital services and resources portal"
+  }
+]
